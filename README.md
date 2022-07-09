@@ -1,6 +1,6 @@
 # 07-Array-Cardio-Day-2
 
-Date: July 6, 2022
+Date: July 9, 2022
 
 # Seventh challange of [JavaScript30](https://javascript30.com/)
 
